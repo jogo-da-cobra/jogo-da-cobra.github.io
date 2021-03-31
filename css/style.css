@@ -1,0 +1,15 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url(../nokia.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    text-align: center;
+    height: 200%;
+}
+
+.snake {
+    position: block;
+    width: 100%;
+    height: 400px;
+}
